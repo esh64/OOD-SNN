@@ -31,3 +31,5 @@ The `Codes` folder contains four main subfolders:
 ## Citation
 
 If you use this work or find it useful for your research, please cite:
+
+Honorato, E.S., Dalalana, G.J.P. (2026). Boosting OOD Detection in Biomedical Data with Siamese Neural Networks. In: de Freitas, R., Furtado, D. (eds) Intelligent Systems. BRACIS 2025. Lecture Notes in Computer Science(), vol 16179. Springer, Cham. https://doi.org/10.1007/978-3-032-15987-8_13
