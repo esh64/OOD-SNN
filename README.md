@@ -1,4 +1,4 @@
-# Feature-Embedding OOD Detection in Biomedical Data via Siamese Neural Networks
+# Boosting OOD Detection in Biomedical Data with Siamese Neural Networks
 
 ## Overview
 
